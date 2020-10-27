@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-crud-b9ca1": {
+      "hosting": {
+        "Store-Firebase": [
+          "angular-crud-b9ca1"
+        ]
+      }
+    }
+  }
+}
